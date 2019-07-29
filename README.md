@@ -1,6 +1,7 @@
 # 说明书哈哈哈哈哈啊哈哈啊哈
 ## Welcome to GitHub Pages
-
+%%html
+<img src="jupyter_logo.png", width=400, heigth=240>
 You can use the [editor on GitHub](https://github.com/whiteooo/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
