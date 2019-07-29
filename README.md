@@ -1,5 +1,5 @@
 ## jupyter notebook
-![logo](https://github.com/whiteooo/hello-world/blob/master/222.jpg)
+![logo] (https://github.com/whiteooo/hello-world/blob/master/222.jpg)
 
 ## Welcome to GitHub Pages
 
